@@ -17,8 +17,8 @@ public class Employee {
     public int getEmployeeId() {
         return employeeId;
     }
-    public void setEmployeeId(int employeeeId) {
-        this.employeeId = employeeeId;
+    public void setEmployeeId(int employeeId) {
+        this.employeeId = employeeId;
     }
     public String getEmployeeName() {
         return employeeName;
