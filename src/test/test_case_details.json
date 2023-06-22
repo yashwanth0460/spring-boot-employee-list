@@ -1,0 +1,38 @@
+[
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testGetEmployees"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testGetNotfound"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testGetEmployeeById"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testPost"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testAfterPost"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testPutNotfound"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testPut"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testAfterPut"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testDeleteNotfound"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.EmployeeControllerTests.testAfterDelete"
+    },
+    {
+        "test_case_name_enum": "com.example.employee.SmokeTest.contextLoads"
+    }
+]
